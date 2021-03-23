@@ -224,8 +224,7 @@ Go to `src/styles/abstracts/_variables.scss` and only change the values on this 
 // Default values
 //$main-color: #02aab0;
 //$secondary-color: #00cdac;
-$main-color: #02bb23;
-$secondary-color: #33ee22;
+
 
 ```
 

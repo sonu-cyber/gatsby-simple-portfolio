@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile_1.jpg',
   paragraphOne: 'I am looking for a Front End Web Developer Job',
-  paragraphTwo: 'I have experience working as a Software Engineer, Instructor in Computer Science for over 4 years & as a HR Recruiter & Softskills Consultant for 5 years ',
+  paragraphTwo: 'I have experience working as a Software Engineer, Instructor in Computer Science for over 4 years & as a HR Recruiter & Softskills Consultant for 6 years ',
   paragraphThree: 'I have worked on some courses in Udemy for a few years  ',
   resume: 'https://www.linkedin.com/in/gayathriraghuram/',
 };
@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'A Responsive Webpage Using Node-Sass & Flexbox ',
     info2: 'It also uses CSS custom Variables',
     url: 'https://trillo-proj.netlify.app',
-    repo: 'https://github.com/users/sonu-cyber/projects/1',
+    repo: 'https://github.com/sonu-cyber/',
   },
   {
     id: nanoid(),
@@ -42,7 +42,7 @@ export const projectsData = [
     info: 'A project using CSS Flexbox & Grid to display images on a webpage.',
     info2: 'A project from a course in Udemy',
     url: 'https://project-start.netlify.app',
-    repo: 'https://github.com/users/sonu-cyber/projects/4'
+    repo: 'https://github.com/sonu-cyber/'
   },
   {
     id: nanoid(),
@@ -51,7 +51,7 @@ export const projectsData = [
     info: 'A Simple project in Vuejs using an API to fetch data(image) to a form on a web page ',
     info2: 'A Questioner project from a course in Eduonix',
     url: 'https://questioner-app.netlify.app',
-    repo: 'https://github.com/users/sonu-cyber/projects/2'
+    repo: 'https://github.com/sonu-cyber/'
   },
   {
     id: nanoid(),
@@ -60,7 +60,7 @@ export const projectsData = [
     info: 'A project using the NASA APOD API',
     info2: 'APOD project using DOM extensively, from a course in Udemy',
     url:'https://nasa-apod-proj.netlify.app',
-    repo: 'https://github.com/users/sonu-cyber/projects/7',
+    repo: 'https://github.com/sonu-cyber/',
   },
   {
     id: nanoid(),
@@ -69,7 +69,7 @@ export const projectsData = [
     info: 'A project using the Reddit API & Vuejs',
     info2: 'A project getting Subreddit from Reddit.com in a course from Eduonix',
     url: 'https://redditapp-proj.netlify.app',
-    repo: 'https://github.com/users/sonu-cyber/projects/6',
+    repo: 'https://github.com/sonu-cyber/',
   },
   {
     id: nanoid(),
@@ -78,7 +78,7 @@ export const projectsData = [
     info: 'A project using CSS Grids',
     info2: 'This project uses CSS Grids to display icons on a webpage.',
     url:'https://grid-gard.netlify.app',
-    repo: 'https://github.com/users/sonu-cyber/projects/3',
+    repo: 'https://github.com/sonu-cyber/',
   },
   {
     id: nanoid(),
@@ -87,7 +87,7 @@ export const projectsData = [
     info: 'A project using HTML, CSS',
     info2: 'A project showing a Responsive landing page for a startup website using HTML,CSS.',
     url:'https://fmnet.netlify.app',
-    repo: 'https://github.com/users/sonu-cyber/projects/5',
+    repo: 'https://github.com/sonu-cyber/',
   },
 ];
 
@@ -114,12 +114,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'www.linkedin.com/gowri',
+      url: 'https://linkedin.com/in/gayathriraghuram',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/users/sonu-cyber/projects/',
+      url: 'https://github.com/sonu-cyber',
     },
   ],
 };
