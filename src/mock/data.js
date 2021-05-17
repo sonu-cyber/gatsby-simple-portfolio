@@ -89,6 +89,33 @@ export const projectsData = [
     url:'https://weather-proj-api.netlify.app',
     repo: 'https://github.com/sonu-cyber/',
   },
+  {
+    id: nanoid(),
+    img: 'project1.jpg',
+    title: 'Cryptonator_API_proj',
+    info: 'A project using Javascript, Cryptonator API,HTML, CSS',
+    info2: 'A project to get bitcoin data from the Cryptonator API using ###fetch API. Live-server is used to display Page Flexbox & Transition have been used extensively',
+    url:'https://cryptonator-api-proj.netlify.app',
+    repo: 'https://github.com/sonu-cyber/',
+  },
+  {
+    id: nanoid(),
+    img: 'project1.jpg',
+    title: 'A Simple Portfolio website',
+    info: 'A project using Javascript, HTML, CSS & Gatsby',
+    info2: 'gatsby-simple-portfolio',
+    url:'https://simple-port-folio.netlify.app',
+    repo: 'https://github.com/sonu-cyber/',
+  },
+  {
+    id: nanoid(),
+    img: 'project1.jpg',
+    title: 'A Simple Responsive Website',
+    info: 'A project using Javascript, HTML, CSS to create a simple responsive website',
+    info2: 'start-up-of-the-year',
+    url:'https://fmnet.netlify.app',
+    repo: 'https://github.com/sonu-cyber/',
+  },
 ];
 
 // CONTACT DATA
