@@ -83,10 +83,10 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project1.jpg',
-    title: 'start-up-of-the-year',
-    info: 'A project using HTML, CSS',
-    info2: 'A project showing a Responsive landing page for a startup website using HTML,CSS.',
-    url:'https://fmnet.netlify.app',
+    title: 'Weather_API_Proj',
+    info: 'A project using Javascript, openweathermap API,HTML, CSS',
+    info2: 'A project to fetch the Weather data from openweathermap.org API Uses Fetch API & DOM extensively Uses Flex box & live-server.',
+    url:'weather-proj-api.netlify.app',
     repo: 'https://github.com/sonu-cyber/',
   },
 ];
