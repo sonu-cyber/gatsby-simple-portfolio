@@ -86,7 +86,7 @@ export const projectsData = [
     title: 'Weather_API_Proj',
     info: 'A project using Javascript, openweathermap API,HTML, CSS',
     info2: 'A project to fetch the Weather data from openweathermap.org API Uses Fetch API & DOM extensively Uses Flex box & live-server.',
-    url:'https://weather-proj-api.netlify.app',
+    url:'https://weather-api-proj.netlify.app/',
     repo: 'https://github.com/sonu-cyber/',
   },
   {
